@@ -1,5 +1,5 @@
 # ncatest
-Fornt end code test 
+Front end code test 
 
 -clone the repo and open index.html
 
